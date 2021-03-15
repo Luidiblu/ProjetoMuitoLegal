@@ -1,1 +1,4 @@
-print('Hello LeWagon')
+def method():
+	print('Hello LeWagon')
+
+method()
